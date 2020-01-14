@@ -1,4 +1,4 @@
-# FIT3143-Parallel-Computing-Assignment-1
+# FIT3143 Parallel Computing Assignment 1
 
 1. Compile the mandelbrot.c code and run the program serially for 5 times on a multi-core computer. Use the clock() function in the code to measure the computational time of the program.  
 a) You should have 5 sets of measures time results.  
